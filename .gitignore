@@ -1,0 +1,60 @@
+# Byte-compiled / cache / temp files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+*.tmp
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+
+# VSCode settings
+.vscode/
+
+# Telegram session
+telegram_session.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.bak
+*.swp
+
+# Ignore test outputs
+*.out
+
+# Ignore requirements lock files
+poetry.lock
+Pipfile.lock
+
+
+
+*.ipynb
+
+main.py
+
+modal.py
+
+.venv
+
+*test/
+
+planning.txt
+
+
+
+
+
+

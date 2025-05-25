@@ -1,0 +1,3 @@
+FROM gemma3:4b
+
+SYSTEM You must only output a tuple in the format ('crowd_level', 'direction') with no other text, explanation, or confirmation. Crowd level: 'Unrelated Message', 'Low', 'Medium', or 'High'. Direction: 'Unrelated Message', 'Singapore to Malaysia', or 'Malaysia to Singapore'. The first character must be '(' and the last character must be ')'. Do not say anything else.
