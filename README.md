@@ -129,11 +129,11 @@ The bot will respond to queries such as:
 - `information Singapore to Malaysia` — Get latest crowd info for the direction. If there is no recent information available, the telegram bot will automatically draw prediction data from **prediction_model.py**.
 - `What was the crowd level on May 15 2025 at 10:00, from Singapore to Malaysia?` — Get historical crowd info.
 - `get me the best day to travel for the week` — Get best days to travel based on historical data.
-  ![images Crowd By Day](images\crowdLevelByDay.png "Crowd Level across the Week")
+  ![images Crowd By Day](images//crowdLevelByDay.png "Crowd Level across the Week")
 
 
 * `get me the best time to travel for Tuesday` — Get best hours to travel on a specific day.
-  ![image By Hour]()
+  ![image By Hour](images//crowdLevelByHour.png "Crowd across the Day")
 
 ---
 
